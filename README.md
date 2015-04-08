@@ -15,7 +15,8 @@ The website is viewable at <a href="http://cyrusroshan.me/product">cyrusroshan.m
 
 The low poly background image was made with the help of <a href="https://github.com/qrohlf/trianglify">trianglify</a>.
 
+Download the current repo <a href="https://github.com/CyrusRoshan/product/archive/gh-pages.zip"> here</a>.
 ___
 #License:
 
-###GPL v2.0
+###MIT
